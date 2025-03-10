@@ -1,2 +1,4 @@
 # tugas-rekursif
-Muchammad Nur Kholish/242410101063
+Nama: Muchammad Nur Kholish
+NIM: 242410101063
+Kelas: Algoritma dan Pemrograman II A
