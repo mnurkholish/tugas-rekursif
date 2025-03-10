@@ -1,3 +1,16 @@
+"""
+input:
+8
+1 0 menu_1
+2 0 menu_2
+3 1 menu_3
+4 1 menu_4
+5 2 menu_5
+6 3 menu_6
+7 0 menu_7
+8 2 menu_8
+"""
+
 def print_menu(menu, parent, tab=0):
     for data in menu:
         if data['parent'] == parent:
